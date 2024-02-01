@@ -1,0 +1,20 @@
+C:\Users\admin\source\repos\SnakeG\SnakeG\bin\Debug\SnakeG.exe.config
+C:\Users\admin\source\repos\SnakeG\SnakeG\bin\Debug\SnakeG.exe
+C:\Users\admin\source\repos\SnakeG\SnakeG\bin\Debug\SnakeG.pdb
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.Form1.resources
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.Properties.Resources.resources
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.exe
+C:\Users\admin\source\repos\SnakeG\SnakeG\obj\Debug\SnakeG.pdb
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\bin\Debug\SnakeG.exe.config
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\bin\Debug\SnakeG.exe
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\bin\Debug\SnakeG.pdb
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.Form1.resources
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.exe
+C:\Users\admin\OneDrive\Desktop\Snake G - Copy\SnakeG\obj\Debug\SnakeG.pdb
