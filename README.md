@@ -1,20 +1,20 @@
-# Snake Game - C# Windows Forms
+# Snake Game in C# Windows Forms
 
-**Snake Game** is a classic game where the player controls a snake that moves around a field and grows each time it eats food. The goal is to avoid collisions with the wall or the snake's body and achieve the highest score.
+In **Snake Game**, the player controls a snake that moves around a field and grows each time it eats food. The objective is to avoid colliding with the walls or the snake's body while achieving the highest score possible.
 
-This project is implemented in **C#** using **Windows Forms**, and contains additional features for managing scores and customizing the game.
+This project is implemented in **C#** using **Windows Forms** and includes features for managing scores and customizing the game.
 
 ---
 
 ## Main functionalities:
 
 - **Snake movement**: Use the arrow keys to move in all four directions.
-- **Random food**: Food appears at different positions on the field and grows the snake when caught.
-- **Collision control**: The game stops if the snake collides with its own body; the walls are teleporters to avoid getting stuck.
-- **Score and Highscore**: The current score is displayed during the game, and the highest score is automatically saved and updated.
-- **Saving scores**: The scores can be saved to a text file and are sorted with **QuickSort**.
-- **Undo (Unsave)**: The last saved scores can be removed from the file and array via an “Unsave” button.
-- **Snake with different colors**: The snake’s head is black, while the body is dark blue; food is displayed in dark red.
+- **Random food**: Food appears in different positions on the field and increases the size of the snake when caught.
+- **Collision control**: The game stops if the snake collides with its own body. The walls act as teleporters to help you avoid getting stuck.
+- **Score and High Score**: The current score is displayed during the game, and the highest score is automatically saved and updated.
+- **Saving scores**: Scores can be saved to a text file and sorted using QuickSort.
+- **Undo (UnSave)**: The last saved scores can be removed from the file and array via the "Unsave" button.
+- **Snake with different colors**: The snake's head is black and its body is dark blue. Food is displayed in dark red.
 
 ---
 
